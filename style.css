@@ -2,13 +2,13 @@
 
 :root {
     --mario-red: #ff3333;
-    --luigi-green: #4caf50;
+    --luigi-green: #800000;
     --peach-pink: #ff69b4;
     --yoshi-green: #70c43e;
     --star-yellow: #ffc107;
     --coin-gold: #ffd700;
     --sky-blue: #87ceeb;
-    --cloud-white: #f0f8ff;
+    --cloud-white: #4b0082;
     --text-dark: #2c3e50;
     --text-light: #fff;
     --shadow-pop: 5px 5px 0px rgba(0, 0, 0, 0.2);
